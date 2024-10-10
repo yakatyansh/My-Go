@@ -29,7 +29,6 @@ func main() {
 	fmt.Println(website)
 
 	// no var style
-
 	numberOfUser := 300000
 	fmt.Println(numberOfUser)
 
