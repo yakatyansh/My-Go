@@ -22,7 +22,6 @@ func main() {
 
 		if routineloop == 3 {
 			goto lco
-			break
 		}
 
 		if routineloop == 2 {
@@ -39,6 +38,5 @@ func main() {
 
 lco:
 	fmt.Println("Jumping to LCO")
-	goto lco
 
 }
